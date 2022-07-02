@@ -20,7 +20,7 @@ _The NodeMCU board communicates to the MIT app cloud through WiFi when the WIFI-
 
 
 ### CIRCUIT DIAGRAM
-![circuit_diagram](images/Picture0.jpg)
+![circuit_diagram](Images/Picture0.jpg)
 
 
 <hr/>
