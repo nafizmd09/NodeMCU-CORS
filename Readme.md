@@ -33,4 +33,4 @@ _The NodeMCU board communicates to the MIT app cloud through WiFi when the WIFI-
 ![6_no_pic](Images/Picture6.jpg)
 ![7_no_pic](Images/Picture7.jpg)
 
-## [See more details...](https://www.slideshare.net/ImtiazMohammad5/nodemcu-controlliing-and-observing-car-project)
+## [See more details...](https://www.slideshare.net/NafizMdImtiazUddin/nodemcu-controlling-and-observing-a-robotic-car-with-a-smartphone-through-nodemcu)
