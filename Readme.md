@@ -1,5 +1,7 @@
 # <b>Controlling and observing a robotic car with a smartphone through NodeMCU</b>
 
+https://www.youtube.com/playlist?list=PL4VybWudFLDbCXjAL-Y1fdZLJk_hxgo-b
+
 ## [See more details...](https://www.slideshare.net/NafizMdImtiazUddin/nodemcu-controlling-and-observing-a-robotic-car-with-a-smartphone-through-nodemcu)
 
 _The NodeMCU board communicates to the MIT app cloud through WiFi when the WIFI-controlled automobile is turned on. The data will be communicated to the NodeMCU board through the cloud when hit the Commands (Forward, Backward, Left, Right) buttons on the interface built in the MIT app. The gear motors then rotate in accordance with those values. This is done with the L298N motor driver board. The speed of these motors may also be changed via the MIT app's slider._
